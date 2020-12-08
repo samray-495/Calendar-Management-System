@@ -5,7 +5,7 @@ month, or year. Also, CMS organizes personal tasks of different users in specifi
 should be able to see their individual calendar data & update them. Our CMS will store the data
 of different users in distinct secure text files. 
 
-Please refrence this GitHub, if going to use any part of our code.
+Please reference this GitHub, if going to use any part of our code.
 
 Thank you, 
 KAVAD.C 
